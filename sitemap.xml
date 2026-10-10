@@ -1,168 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://chksoumya.in/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/google/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ibm/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/microsoft/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/meta/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/nvidia/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/hackerrank/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/aws/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/universities/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/machine-learning-with-python/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-infrastructure-and-operations/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/llm-deployment-and-ethical-ai/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-workflow-model-deployment/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-python-for-beginners/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-workflow-business-priorities/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-workflow-data-analysis/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-workflow-feature-engineering/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-workflow-ml-and-nlp/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/computer-vision-intro/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/deep-learning-for-cv/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/ai-and-ml-engineering/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/prompt-engineering/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/google-prompting-essentials/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/design-prompts-for-tasks/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/use-ai-as-creative-partner/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/speed-up-data-analysis/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/intro-to-cybersecurity/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/cyber-security-fundamentals/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/cybersecurity-essentials/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/tools-and-cyberattacks/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/developing-solutions-az-204/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/it-and-aws-cloud/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/intro-to-it-and-aws/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/technical-support-fundamentals/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/technical-support-fundamentals-ii/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/git-and-github/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/python-full-stack-internship/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/mern-stack-developer-intern/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/programming-in-python/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/programming-with-javascript/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/android-mobile-app-dev/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/javascript-intermediate/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/javascript-basic/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/python-basic/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/css/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/sql-basic/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/programming-in-c/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/programming-for-everybody/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/crash-course-on-python/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/python-for-data-science/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/python-development/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/data-analytics-automation/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/data-analytics-lab/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/intro-to-data-analytics/</loc>
-</url>
-<url>
-<loc>https://chksoumya.in/certificates/english-composition-i/</loc>
-</url>
+  <url>
+    <loc>https://soumyachk101.github.io/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/google/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ibm/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/microsoft/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/meta/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/nvidia/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/hackerrank/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/aws/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/universities/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/machine-learning-with-python/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-infrastructure-and-operations/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/llm-deployment-and-ethical-ai/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-workflow-model-deployment/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-python-for-beginners/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-workflow-business-priorities/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-workflow-data-analysis/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-workflow-feature-engineering/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-workflow-ml-and-nlp/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/computer-vision-intro/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/deep-learning-for-cv/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/ai-and-ml-engineering/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/prompt-engineering/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/google-prompting-essentials/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/design-prompts-for-tasks/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/use-ai-as-creative-partner/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/speed-up-data-analysis/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/intro-to-cybersecurity/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/cyber-security-fundamentals/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/cybersecurity-essentials/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/tools-and-cyberattacks/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/developing-solutions-az-204/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/it-and-aws-cloud/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/intro-to-it-and-aws/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/technical-support-fundamentals/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/technical-support-fundamentals-ii/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/git-and-github/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/python-full-stack-internship/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/mern-stack-developer-intern/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/programming-in-python/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/programming-with-javascript/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/android-mobile-app-dev/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/javascript-intermediate/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/javascript-basic/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/python-basic/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/css/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/sql-basic/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/programming-in-c/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/programming-for-everybody/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/crash-course-on-python/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/python-for-data-science/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/python-development/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/data-analytics-automation/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/data-analytics-lab/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/intro-to-data-analytics/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumyachk101.github.io/certificates/english-composition-i/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
